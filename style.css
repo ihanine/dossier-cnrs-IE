@@ -23,9 +23,9 @@ hr { border: 0; border-top: 1px solid #999; margin: 1.4em 0; }
 table.header { border-collapse: collapse; margin-bottom: 1em; }
 table.header td { vertical-align: top; }
 table.header td.photo { width: 1%; padding-right: 1em; }
-/*table.header img { border: 1px solid #000; }*/
-table.header td.photo { height: 1px; }
-table.header img { border: 1px solid #000; height: 100%; width: 160px; object-fit: cover; display: block; }
+table.header img { border: 1px solid #000; }
+/*table.header td.photo { height: 1px; }
+table.header img { border: 1px solid #000; height: 100%; width: 160px; object-fit: cover; display: block; }*/
 .name  { font-size: 1.3em; font-weight: bold; }
 .title { font-weight: bold; }
 
